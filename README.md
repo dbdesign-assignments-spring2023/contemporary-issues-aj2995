@@ -1,3 +1,14 @@
 # Contemporary Issues In Data
 
-Welcome! Your writing assignment will be in this file.  See [the instructions](./instructions.md) for more details.
+# Collaboration between Organisations for Cyber and Data Security
+In this document, I discuss about two articles with opposing views on collaboration between concerned parties for cyber and data security. The articles are presented below.
+
+## Article 1
+In Peter Aitken's [Data Security: Who is responsible for protecting cyber America?](https://www.foxnews.com/us/data-security-responsible-protecting-cyber-america), the author speaks about how divided US cybersecurity is with private companies, state governments, and the federal government each handling their own infrastructure. A fractured environment exists in spite of mounting threats from countries and private organisations. State governments and companies have to keep up with such attacks on their data and systems with an incomplete view of the situation - the federal government hides information about threats from countries such as Korea, Russia, China. In fact, the federal government calls itself an 'enabler' and 'supporter' in case such a crisis arises. 
+
+This implies that both state governments and companies, belonging to all ranges of resource levels and cybersecurity, have to rely upon the selctive 'resources' provided by the federal government. The author interjects that the private sector is expected to deal with excessive regulations, lawsuits, and liability when all the sector gets in return is an underwhelming support on the security front. The US cybersecurity is in a fray considering that both companies and the state government have to rely on 'information bulletins' for collaboration with the federal government. 
+
+## Article 2
+In direct opposition to the approach chosen by the federal government, at Davos 2023's discussions [Experts at Davos 2023 call for a global response to the gathering 'cyber storm'](https://www.weforum.org/agenda/2023/01/cybersecurity-storm-2023-experts-davos23/), experts including Jürgen Stock, the Secretary-General of Interpol, have concluded that the key to win the battle againt cyber crime is to work together actively across 'geopolitcal fault lines'. While business leaders are aware of the threats posed, organizations find it challenging to effectively address seccurity concerns. 
+
+Targets for cyber attacks are now not just organisations in critical infrastructure sectors, government agencies, but any organization handling the data of consumers - irrespective of the size. Further, 100% security against such threats is not achieveable. Together with consumers, all concerned organizations need to collaboratively work and upgrade to build resilience. 
